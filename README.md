@@ -1,5 +1,5 @@
 # Real-Time-Weather-Data-Pipeline-with-Azure
-This pipeline fetches weather data from an API, processes it through Azure Event Hub and Stream Analytics, and visualizes it in Power BI. 
+Real-time pipeline fetches weather data through the API using Python script in Databricks, processes it through Azure Event Hub and Stream Analytics, and visualizes it in Power BI  
 
 
 ![Weather Stream_PBI Dashboard](https://github.com/user-attachments/assets/90653bba-393d-4f07-b49d-44b25891ed3c)
